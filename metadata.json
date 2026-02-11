@@ -1,0 +1,8 @@
+{
+  "name": "NOIR ARCHIVE",
+  "description": "An extravagant, avant-garde digital sanctuary for architectural visions, personal manifestos, and ephemeral life chronicles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
